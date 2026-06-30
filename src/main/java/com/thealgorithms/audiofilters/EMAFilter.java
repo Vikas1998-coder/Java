@@ -2,7 +2,7 @@ package com.thealgorithms.audiofilters;
 
 /**
  * Exponential Moving Average (EMA) Filter for smoothing audio signals.
- * Hi all + xyz
+ * Hi all
  * <p>
  * This filter applies an exponential moving average to a sequence of audio
  * signal values, making it useful for smoothing out rapid fluctuations.
